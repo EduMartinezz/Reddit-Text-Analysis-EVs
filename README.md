@@ -28,8 +28,8 @@ The app is built with **Streamlit** and integrates **modern NLP models** (Transf
 
 ### 🔎 Query Interface
 Fetch live posts from subreddits like `r/electricvehicles` or `r/cars` with custom queries (e.g., `EV OR Tesla OR Electric Vehicle`).
-https://github.com/EduMartinezz/Reddit-Text-Analysis-EVs/blob/main/Reddit_dash.PNG
-https://github.com/EduMartinezz/Reddit-Text-Analysis-EVs/blob/main/Reddit_dash1.PNG
+- https://github.com/EduMartinezz/Reddit-Text-Analysis-EVs/blob/main/Reddit_dash.PNG
+- https://github.com/EduMartinezz/Reddit-Text-Analysis-EVs/blob/main/Reddit_dash1.PNG
 
 ### 📈 Sentiment Analysis
 - Distribution of **positive / neutral / negative** posts  
@@ -40,9 +40,9 @@ https://github.com/EduMartinezz/Reddit-Text-Analysis-EVs/blob/main/Reddit_dash1.
 ### ☁️ Word Cloud
 Most frequent terms in EV-related Reddit posts.
 
-https://github.com/EduMartinezz/Reddit-Text-Analysis-EVs/blob/main/Reddit_dash2.PNG
-https://github.com/EduMartinezz/Reddit-Text-Analysis-EVs/blob/main/Reddit_dash3.PNG
-https://github.com/EduMartinezz/Reddit-Text-Analysis-EVs/blob/main/Reddit_dash4.PNG
+- https://github.com/EduMartinezz/Reddit-Text-Analysis-EVs/blob/main/Reddit_dash2.PNG
+- https://github.com/EduMartinezz/Reddit-Text-Analysis-EVs/blob/main/Reddit_dash3.PNG
+- https://github.com/EduMartinezz/Reddit-Text-Analysis-EVs/blob/main/Reddit_dash4.PNG
 
 
 ### 🧩 Topic Modeling
